@@ -1,0 +1,2 @@
+# todoapp
+pythonとreactで構築した学習用TODO管理アプリの作成
