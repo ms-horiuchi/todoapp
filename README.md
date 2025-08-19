@@ -1,2 +1,2 @@
 # todoapp
-pythonとreactで構築した学習用TODO管理アプリ
+pythonで構築した学習用TODO管理アプリ
